@@ -2,7 +2,7 @@
  
 A personal portfolio website showcasing my work as a **Cybersecurity Analyst and Web Developer**. It presents my background, skills, services, and projects in one clean, responsive site.
  
-**Live site:**: 
+**Live site:**
  
 ---
  
